@@ -8,6 +8,7 @@
           <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
           <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
           <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+          <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="javascript" width="40" height="40" />
         </div>
       </div>
       <div>
