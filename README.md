@@ -5,10 +5,10 @@
       <div>
         <h4 align="left">Frontend Development</h4>
         <div>
-          <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-          <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-          <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-          <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="javascript" width="40" height="40" />
+          <img src="https://e7.pngegg.com/pngimages/789/586/png-clipart-gray-and-green-v-vue-js-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="vuejs" width="40" height="40" />
+          <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png" alt="html5" width="40" height="40" />
+          <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="40" height="40" />
+          <img src="https://image.pngaaa.com/930/2507930-middle.png" alt="javascript" width="40" height="40" />
         </div>
       </div>
       <div>
