@@ -1,10 +1,10 @@
  <h1 align="center">Hi, I'm Jonathan</h1>
   <h3 align="center">A fullstack DevOps engineer from Sweden</h3>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunberg087&layout=compact&hide=html" alt="thunberg087" />
+    ![Stats](./profile/stats.svg)
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thunberg087&show_icons=true"alt="thunberg087" />
+    ![Top Languages](./profile/top-langs.svg)
   </p>
   <p align="center">
     <a href="https://linkedin.com/in/jonathan-thunberg-416b79171" target="blank">
